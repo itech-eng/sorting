@@ -7,10 +7,10 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/roles"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/resource"
+	"github.com/itech-eng/roles"
 )
 
 func updatePosition(context *admin.Context) {

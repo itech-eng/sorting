@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/sorting"
+	"github.com/itech-eng/sorting"
 )
 
 type ColorVariation struct {

@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/publish"
+	"github.com/itech-eng/publish"
 )
 
 type changedSortingPublishEvent struct {
